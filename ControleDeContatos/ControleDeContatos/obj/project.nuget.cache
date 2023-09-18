@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2o5bNB9G11paHsPcUu2/yeykZsRhoPCZxZNjWDKdPnxYU20ZQLBJGo3awlNyATMkJ7GVD7tewfWuj3nGSrCxFA==",
+  "dgSpecHash": "gXH33XDpco5f6UwplRMDOJxNaxfZPVC8dXH1M7HHEIhMLjlNWG1LPsYnSZPbsPPyonwNodDWXo5Vha4lGHhLbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+  "projectFilePath": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC Gamer Derick\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\PC Gamer Derick\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",

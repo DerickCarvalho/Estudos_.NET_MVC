@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
+    "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
+    "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectUniqueName": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "projectName": "ControleDeContatos",
-        "projectPath": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectPath": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "packagesPath": "C:\\Users\\PC Gamer Derick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\obj\\",
+        "outputPath": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC Gamer Derick\\AppData\\Roaming\\NuGet\\NuGet.Config",
