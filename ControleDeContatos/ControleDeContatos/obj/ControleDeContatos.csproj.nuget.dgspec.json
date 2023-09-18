@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
+    "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
+    "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectUniqueName": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "projectName": "ControleDeContatos",
-        "projectPath": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectPath": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "packagesPath": "C:\\Users\\PC Gamer Derick\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\obj\\",
+        "outputPath": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos_.NET_MVC\\ControleDeContatos\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC Gamer Derick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
